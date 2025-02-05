@@ -2,6 +2,7 @@
 
 <h2>Description</h2>
 A full list of all my python projects in no particular order
+
 <br/>
 
 
