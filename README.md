@@ -3,8 +3,8 @@
 <h2>Description</h2>
 A full list of all my python projects in no particular order
 
-<br/>
-
+<br>
+<br>
 
   - [Python learning library](https://github.com/joshkoo1988/Python-Learning)
   - [Python Algorithms & Data Structures](https://github.com/joshkoo1988/Python-Algorithms-and-Data-Structures)
